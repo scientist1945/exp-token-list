@@ -82,8 +82,15 @@
             "symbol": "PRM",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/scientist1945/exp-token-list/main/icons/0x87Eb2fdF607B46F324984771FfDF2A0396139bDf.png"
+        },
+        {
+            "address": "0x8B683356e53B9D8f8Ad6e84B50FFB1c1bA1A509d",
+            "chainId": 2,
+            "name": "HY511",
+            "symbol": "HY511",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/scientist1945/exp-token-list/main/icons/HY511.png"
         }
-
 
 
     ]
