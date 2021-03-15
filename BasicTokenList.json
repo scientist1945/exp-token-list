@@ -83,6 +83,22 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/scientist1945/exp-token-list/main/icons/0x87Eb2fdF607B46F324984771FfDF2A0396139bDf.png"
         },
+                 {
+            "address": "0xD13C89Ad0686A974afe911EbfC11C48a72F57390",
+            "chainId": 2,
+            "name": "Expanse UBIQ",
+            "symbol": "eUBIQ",
+            "decimals": 18,
+            "logoURI": "https://bridge.expanse.tech/static/media/ubiq.29b096e1.png"
+        },
+                          {
+            "address": "0x097eee28cd6ce752e8c0bb694cdb50669f83ab89",
+            "chainId": 2,
+            "name": "xBNB",
+            "symbol": "xBNB",
+            "decimals": 18,
+            "logoURI": "https://bridge.expanse.tech/static/media/bnb.8e821114.png"
+        },
         {
             "address": "0x0Ccc576B42Da4F1e458bB88874C7E91987144a24",
             "chainId": 2,
