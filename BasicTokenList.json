@@ -4,7 +4,7 @@
     "version": {
         "major": 1,
         "minor": 0,
-        "patch": 7
+        "patch": 8
     },
     "keywords": [
         "expswap",
@@ -73,7 +73,7 @@
             "name": "STEAK",
             "symbol": "STK",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/scientist1945/exp-token-list/main/icons/steakwhiteicon.png"
+            "logoURI": "https://1.bp.blogspot.com/-iQDwvsgV5Eo/YE_oqymJUqI/AAAAAAAACvg/u_mbSAl8mykd3QOqQbCo11zHJ4lO0X8-wCLcBGAsYHQ/s16000/steak-white-icon-512x512.png"
         },
         {
             "address": "0x87Eb2fdF607B46F324984771FfDF2A0396139bDf",
@@ -81,7 +81,7 @@
             "name": "PROMINEROS",
             "symbol": "PRM",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/scientist1945/exp-token-list/main/icons/0x87Eb2fdF607B46F324984771FfDF2A0396139bDf.png"
+            "logoURI": "https://1.bp.blogspot.com/-UmWZW0C6P38/YE_nhEnx65I/AAAAAAAACvY/Sh7W14fy6sIokw98UI7S0sAvB5-NWHNbwCLcBGAsYHQ/s16000/PRM-icon-trasp.png"
         },
                  {
             "address": "0xD13C89Ad0686A974afe911EbfC11C48a72F57390",
@@ -98,6 +98,14 @@
             "symbol": "xBNB",
             "decimals": 18,
             "logoURI": "https://bridge.expanse.tech/static/media/bnb.8e821114.png"
+        },
+                 {
+            "address": "0x0D14F385647E66283E8E5D9c567296751Ac7ee7D",
+            "chainId": 2,
+            "name": "WAGMI",
+            "symbol": "WAGMI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x0D14F385647E66283E8E5D9c567296751Ac7ee7D.png"
         },
         {
             "address": "0x0Ccc576B42Da4F1e458bB88874C7E91987144a24",
