@@ -1,10 +1,10 @@
 {
     "name": "Basic List",
-    "timestamp": "2021-03-15T12:00:00+00:01",
+    "timestamp": "2021-03-15T12:00:00+00:02",
     "version": {
         "major": 1,
-        "minor": 0,
-        "patch": 8
+        "minor": 1,
+        "patch": 1
     },
     "keywords": [
         "expswap",
@@ -106,6 +106,14 @@
             "symbol": "WAGMI",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icons/0x0D14F385647E66283E8E5D9c567296751Ac7ee7D.png"
+        },
+                {
+            "address": "0x586fc83f7610c1388ab477aba51428f9f39dfec6",
+            "chainId": 2,
+            "name": "Buy The Fucking Dip",
+            "symbol": "BTFD",
+            "decimals": 18,
+            "logoURI": "https://1.bp.blogspot.com/-GgfJnuTyUNM/YFBIWwbKEdI/AAAAAAAACvo/u3KZtRAObwklqV5rBol9VAzRjAM1Pu3xgCLcBGAsYHQ/s16000/btfd.png"
         },
         {
             "address": "0x0Ccc576B42Da4F1e458bB88874C7E91987144a24",
