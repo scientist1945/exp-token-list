@@ -1,11 +1,11 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2021-03-17T12:00:00+00:00",
+    "timestamp": "2021-03-18T12:00:00+00:00",
     "version": {
         "major": 1,
         "minor": 1,
-        "patch": 4
+        "patch": 5
     },
     "keywords": [
         "expswap",
@@ -114,7 +114,7 @@
             "name": "Buy The Fucking Dip",
             "symbol": "BTFD",
             "decimals": 18,
-            "logoURI": "https://1.bp.blogspot.com/-GgfJnuTyUNM/YFBIWwbKEdI/AAAAAAAACvo/u3KZtRAObwklqV5rBol9VAzRjAM1Pu3xgCLcBGAsYHQ/s16000/btfd.png"
+            "logoURI": "https://1.bp.blogspot.com/-80xk3mgeyxA/YGM234BUQtI/AAAAAAAACw8/VETR-jYfq2YmPpZA0EyMN1L0Vf4zZ5NsACLcBGAsYHQ/w320-h320/btfd2.png"
         },
         {
             "address": "0x0Ccc576B42Da4F1e458bB88874C7E91987144a24",
