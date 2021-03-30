@@ -4,7 +4,7 @@
     "timestamp": "2021-03-18T12:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 1,
+        "minor": 2,
         "patch": 5
     },
     "keywords": [
@@ -123,8 +123,22 @@
             "symbol": "HY511",
             "decimals": 18,
             "logoURI": "https://1.bp.blogspot.com/-xOEYD1yKqMo/YE_fSPm4tAI/AAAAAAAACvQ/DEk5Mo0OIOk06xf4U-r9_V6OAAtGTgpLACLcBGAsYHQ/s16000/HY511.png"
+        },
+        {
+            "address": "0x54451dBE4B925aa5E312E232c6Cba2EAA0d98169",
+            "chainId": 2,
+            "name": "SVIT",
+            "symbol": "SVIT",
+            "decimals": 18,
+            "logoURI": "https://1.bp.blogspot.com/-fnRQ2Z3Y64A/YGM4tqvZSAI/AAAAAAAACxE/4XQQFsKxs606OQm2kkAjCn4JsA-jKHF1ACLcBGAsYHQ/s320/svit.png"
+        },
+        {
+            "address": "0x7336fa672f229c7325accb5ef867b914a6062ad0",
+            "chainId": 2,
+            "name": "Alpha Liquidity",
+            "symbol": "ALYM",
+            "decimals": 16,
+            "logoURI": "https://1.bp.blogspot.com/-vv0PGUgcL0Q/YGM5VRQ1n3I/AAAAAAAACxM/3TL21KJtYUIfATHSWdnl-BykVn-W17qhwCLcBGAsYHQ/s0/alym.png"
         }
-
-
     ]
 }
