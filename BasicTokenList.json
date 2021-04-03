@@ -1,11 +1,11 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2021-03-20T12:00:00+00:00",
+    "timestamp": "2021-03-20T12:00:00+00:03,
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 5
+        "patch": 6
     },
     "keywords": [
         "expswap",
@@ -143,7 +143,7 @@
         {
             "address": "0xBd5870a474B7A9B112d34b24993b4F3aCF6Dd874",
             "chainId": 2,
-            "name": "EVLTZ (5% slippage)",
+            "name": "EVLTZ",
             "symbol": "EVLTZ",
             "decimals": 18,
             "logoURI": "https://expanse.tech/wp-content/uploads/2021/03/vaultz-logo.jpeg"
@@ -151,7 +151,7 @@
         {
             "address": "0xE57f6bBc0fCf5b89B2d1aF54Ea4D4A1AaEa678AD",
             "chainId": 2,
-            "name": "AutoBurn (7% slippage)",
+            "name": "AutoBurn",
             "symbol": "EABN",
             "decimals": 6,
             "logoURI": "https://expanse.tech/wp-content/uploads/2021/03/IMG-20210126-WA0001_2-Expanse-Tokens.png"
