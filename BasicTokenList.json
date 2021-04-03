@@ -1,10 +1,10 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2021-03-19T12:00:00+00:01",
+    "timestamp": "2021-03-20T12:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 5
     },
     "keywords": [
@@ -139,6 +139,30 @@
             "symbol": "ALYM",
             "decimals": 16,
             "logoURI": "https://1.bp.blogspot.com/-vv0PGUgcL0Q/YGM5VRQ1n3I/AAAAAAAACxM/3TL21KJtYUIfATHSWdnl-BykVn-W17qhwCLcBGAsYHQ/s0/alym.png"
+        },
+        {
+            "address": "0xBd5870a474B7A9B112d34b24993b4F3aCF6Dd874",
+            "chainId": 2,
+            "name": "EVLTZ (5% slippage)",
+            "symbol": "EVLTZ",
+            "decimals": 18,
+            "logoURI": "https://expanse.tech/wp-content/uploads/2021/03/vaultz-logo.jpeg"
+        },
+        {
+            "address": "0xE57f6bBc0fCf5b89B2d1aF54Ea4D4A1AaEa678AD",
+            "chainId": 2,
+            "name": "AutoBurn (7% slippage)",
+            "symbol": "EABN",
+            "decimals": 6,
+            "logoURI": "https://expanse.tech/wp-content/uploads/2021/03/IMG-20210126-WA0001_2-Expanse-Tokens.png"
+        },
+        {
+            "address": "0x4625d7f5948a2576739ecb6b4508dd0020c6231c",
+            "chainId": 2,
+            "name": "Emporia",
+            "symbol": "EMP",
+            "decimals": 6,
+            "logoURI": "https://expanse.tech/wp-content/uploads/2021/03/Emporia-Rajesh-Kumar.png"
         }
     ]
 }
