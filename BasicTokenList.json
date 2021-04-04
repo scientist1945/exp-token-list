@@ -163,14 +163,7 @@
             "symbol": "EABN",
             "decimals": 6,
             "logoURI": "https://expanse.tech/wp-content/uploads/2021/03/IMG-20210126-WA0001_2-Expanse-Tokens.png"
-        },
-             {
-            "address": "0x8121c4bb04a4d58a4f672a5145be457416624f44",
-            "chainId": 2,
-            "name": "Frederico",
-            "symbol": "FRD",
-            "decimals": 18,
-            "logoURI": "https://1.bp.blogspot.com/-OdAlFo6AMW0/YGobKIhHlZI/AAAAAAAACxs/q9hkAiOoQYkrVIk694T_yR9xQqlqvDDewCLcBGAsYHQ/s0/fdr.jpg"
-        }  
+        }
+        
     ]
 }
