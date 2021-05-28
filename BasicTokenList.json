@@ -1,11 +1,11 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2021-04-03T00:00:00+00:00",
+    "timestamp": "2021-04-04T00:00:00+00:00",
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 0
+        "patch": 1
     },
     "keywords": [
         "expswap",
@@ -157,7 +157,7 @@
             "logoURI": "https://expanse.tech/wp-content/uploads/2021/03/IMG-20210126-WA0001_2-Expanse-Tokens.png"
         },
         {
-            "address": "0x01A406FbC496b64dF0D04992240d5BBE105d7376",
+            "address": "0x71c6a1ae78259f9E74cD4FaA3F96CFD06d9E1616",
             "chainId": 2,
             "name": "Expanse Cash",
             "symbol": "EXC",
