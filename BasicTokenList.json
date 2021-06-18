@@ -5,7 +5,7 @@
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 2
+        "patch": 4
     },
     "keywords": [
         "expswap",
@@ -163,6 +163,23 @@
             "symbol": "EXC",
             "decimals": 10,
             "logoURI": "https://pbs.twimg.com/profile_images/1388172320238358530/RZXPh0Rj_400x400.jpg"
-        }
+        },
+        {
+      "address": "0xecaea0babbb715357d68337ce2e8a7a2aa53034f",
+      "chainId": 2,
+      "name": "XTC",
+      "symbol": "XatruchCoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0xecaea0babbb715357d68337ce2e8a7a2aa53034f.png"
+    },
+    {
+      "address": "0x9c4a1b65abfa24f0f743fd544eb15a70a8d2e27f",
+      "chainId": 2,
+      "name": "T502",
+      "symbol": "T502",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x9c4a1b65abfa24f0f743fd544eb15a70a8d2e27f.png"
+    }
+
     ]
 }
