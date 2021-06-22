@@ -1,10 +1,10 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2021-04-14T00:00:00+00:00",
+    "timestamp": "2021-06-21T00:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 3,
+        "minor": 4,
         "patch": 4
     },
     "keywords": [
@@ -179,6 +179,14 @@
       "symbol": "T502",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x9c4a1b65abfa24f0f743fd544eb15a70a8d2e27f.png"
+    },
+    {
+      "address": "0x340a5b4e42b38462e2ce090c083bf812af0ac2a7",
+      "chainId": 2,
+      "name": "RICH Token",
+      "symbol": "RICH",
+      "decimals": 18,
+      "logoURI": "https://1.bp.blogspot.com/-mSMsfoxTc6Q/YNFOP-Buq5I/AAAAAAAAC2k/GXTJ9yigBwkxIGvAmIs3I1_aWiToYoMpQCLcBGAsYHQ/s320/0x340a5b4e42b38462e2ce090c083bf812af0ac2a7.png"
     }
 
     ]
