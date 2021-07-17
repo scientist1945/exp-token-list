@@ -187,7 +187,15 @@
       "symbol": "RICH",
       "decimals": 18,
       "logoURI": "https://1.bp.blogspot.com/-mSMsfoxTc6Q/YNFOP-Buq5I/AAAAAAAAC2k/GXTJ9yigBwkxIGvAmIs3I1_aWiToYoMpQCLcBGAsYHQ/s320/0x340a5b4e42b38462e2ce090c083bf812af0ac2a7.png"
-    }
+    },
+    {
+      "address": "0x321ef31821aefd18fd30ad56328d7ac160df3e8b",
+      "chainId": 2,
+      "name": "CANDY",
+      "symbol": "XCT",
+      "decimals": 0,
+      "logoURI": "https://cdn.discordapp.com/attachments/696762586020053122/866075992727617587/Candies_512x512.png"
+    }           
 
     ]
 }
