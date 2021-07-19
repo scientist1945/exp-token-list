@@ -1,11 +1,11 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2021-07-10T00:00:00+00:00",
+    "timestamp": "2021-07-11T00:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 5,
-        "patch": 4
+        "minor": 4,
+        "patch": 5
     },
     "keywords": [
         "expswap",
@@ -187,15 +187,7 @@
       "symbol": "RICH",
       "decimals": 18,
       "logoURI": "https://1.bp.blogspot.com/-mSMsfoxTc6Q/YNFOP-Buq5I/AAAAAAAAC2k/GXTJ9yigBwkxIGvAmIs3I1_aWiToYoMpQCLcBGAsYHQ/s320/0x340a5b4e42b38462e2ce090c083bf812af0ac2a7.png"
-    },
-    {
-      "address": "0x321ef31821aefd18fd30ad56328d7ac160df3e8b",
-      "chainId": 2,
-      "name": "CANDY",
-      "symbol": "XCT",
-      "decimals": 0,
-      "logoURI": "https://cdn.discordapp.com/attachments/696762586020053122/866075992727617587/Candies_512x512.png"
-    }           
+    }       
 
     ]
 }
