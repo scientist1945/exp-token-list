@@ -1,10 +1,10 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2021-08-13T00:00:00+00:00",
+    "timestamp": "2021-08-23T00:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 6,
+        "minor": 7,
         "patch": 6
     },
     "keywords": [
@@ -188,14 +188,6 @@
       "decimals": 18,
       "logoURI": "https://1.bp.blogspot.com/-mSMsfoxTc6Q/YNFOP-Buq5I/AAAAAAAAC2k/GXTJ9yigBwkxIGvAmIs3I1_aWiToYoMpQCLcBGAsYHQ/s320/0x340a5b4e42b38462e2ce090c083bf812af0ac2a7.png"
     },      
-{
-      "address": "0x138D27629fB6076F72407a868E0B8F9C6215492D",
-      "chainId": 2,
-      "name": "Candy",
-      "symbol": "SUGAR",
-      "decimals": 18,
-      "logoURI": "https://media.discordapp.net/attachments/696762586020053122/866075992727617587/Candies_512x512.png"
-    },
                {
       "address": "0x4e004A1031f79001dC21194F0EC3bF1A3a208Fb9",
       "chainId": 2,
