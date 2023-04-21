@@ -1,11 +1,11 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2021-08-23T00:00:00+00:00",
+    "timestamp": "2022-08-23T00:00:00+00:00",
     "version": {
         "major": 1,
         "minor": 7,
-        "patch": 6
+        "patch": 7
     },
     "keywords": [
         "expswap",
@@ -122,7 +122,7 @@
             "name": "SVIT",
             "symbol": "SVIT",
             "decimals": 18,
-            "logoURI": "https://1.bp.blogspot.com/-fnRQ2Z3Y64A/YGM4tqvZSAI/AAAAAAAACxE/4XQQFsKxs606OQm2kkAjCn4JsA-jKHF1ACLcBGAsYHQ/s320/svit.png"
+            "logoURI": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUWledbhjXBk5ra7nfYOKLX68xQcBNH1FUEnaJr5okGrmEzMv0qNew8BVxsY05VON2Y-Zydn3BNST5Ah-fMPGuqX2v3LzrUMOjChl1BKPDCA9HD1_8siM7wUtvcFoWHvmmD3j6wnwNq349I0U6vJh0SFa5UjsvNJ9KkVxsHOqSHlGvNuJkHE5sMF3f/s426/savinglogo.png"
         },
         {
             "address": "0x7336fa672f229c7325accb5ef867b914a6062ad0",
