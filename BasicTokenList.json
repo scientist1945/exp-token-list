@@ -1,11 +1,11 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2022-08-23T00:00:00+00:00",
+    "timestamp": "2022-09-23T00:00:00+00:00",
     "version": {
         "major": 1,
         "minor": 7,
-        "patch": 7
+        "patch": 8
     },
     "keywords": [
         "expswap",
@@ -124,38 +124,7 @@
             "decimals": 18,
             "logoURI": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUWledbhjXBk5ra7nfYOKLX68xQcBNH1FUEnaJr5okGrmEzMv0qNew8BVxsY05VON2Y-Zydn3BNST5Ah-fMPGuqX2v3LzrUMOjChl1BKPDCA9HD1_8siM7wUtvcFoWHvmmD3j6wnwNq349I0U6vJh0SFa5UjsvNJ9KkVxsHOqSHlGvNuJkHE5sMF3f/s426/savinglogo.png"
         },
-        {
-            "address": "0x7336fa672f229c7325accb5ef867b914a6062ad0",
-            "chainId": 2,
-            "name": "Alpha Liquidity",
-            "symbol": "ALYM",
-            "decimals": 16,
-            "logoURI": "https://1.bp.blogspot.com/-vv0PGUgcL0Q/YGM5VRQ1n3I/AAAAAAAACxM/3TL21KJtYUIfATHSWdnl-BykVn-W17qhwCLcBGAsYHQ/s0/alym.png"
-        },
-        {
-            "address": "0x4625d7f5948a2576739ecb6b4508dd0020c6231c",
-            "chainId": 2,
-            "name": "Emporia",
-            "symbol": "EMP",
-            "decimals": 18,
-            "logoURI": "https://expanse.tech/wp-content/uploads/2021/03/Emporia-Rajesh-Kumar.png"
-        },
-                {
-            "address": "0xBd5870a474B7A9B112d34b24993b4F3aCF6Dd874",
-            "chainId": 2,
-            "name": "EVLTZ",
-            "symbol": "EVLTZ",
-            "decimals": 18,
-            "logoURI": "https://expanse.tech/wp-content/uploads/2021/03/vaultz-logo.jpeg"
-        },
-        {
-            "address": "0xE57f6bBc0fCf5b89B2d1aF54Ea4D4A1AaEa678AD",
-            "chainId": 2,
-            "name": "AutoBurn",
-            "symbol": "EABN",
-            "decimals": 6,
-            "logoURI": "https://expanse.tech/wp-content/uploads/2021/03/IMG-20210126-WA0001_2-Expanse-Tokens.png"
-        },
+    
         {
             "address": "0x71c6a1ae78259f9E74cD4FaA3F96CFD06d9E1616",
             "chainId": 2,
@@ -188,6 +157,15 @@
       "decimals": 18,
       "logoURI": "https://1.bp.blogspot.com/-mSMsfoxTc6Q/YNFOP-Buq5I/AAAAAAAAC2k/GXTJ9yigBwkxIGvAmIs3I1_aWiToYoMpQCLcBGAsYHQ/s320/0x340a5b4e42b38462e2ce090c083bf812af0ac2a7.png"
     },      
+{
+      "address": "0x5Ba8E507Be156cBbA52531a2C38296De5b385EfB",
+      "chainId": 2,
+      "name": "PunkCoin",
+      "symbol": "PUNK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x5Ba8E507Be156cBbA52531a2C38296De5b385EfB.png"
+    },
+        
                {
       "address": "0x4e004A1031f79001dC21194F0EC3bF1A3a208Fb9",
       "chainId": 2,
