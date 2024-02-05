@@ -5,7 +5,7 @@
     "version": {
         "major": 1,
         "minor": 8,
-        "patch": 1
+        "patch": 2
     },
     "keywords": [
         "expswap",
@@ -173,7 +173,7 @@
       "symbol": "EDOGE",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/0xliquidated/exp-token-list/main/icon/0x45370a6CAa6472Dc030014680bdfa27ed224BEfc.png"
-    } 
+    }, 
         
                {
       "address": "0x4e004A1031f79001dC21194F0EC3bF1A3a208Fb9",
