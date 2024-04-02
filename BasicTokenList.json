@@ -1,11 +1,11 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2023-09-09T00:00:00+00:00",
+    "timestamp": "2023-09-10T00:00:00+00:00",
     "version": {
         "major": 1,
-        "minor": 8,
-        "patch": 2
+        "minor": 9,
+        "patch": 0
     },
     "keywords": [
         "expswap",
@@ -174,6 +174,14 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/0xliquidated/exp-token-list/main/icon/0x45370a6CAa6472Dc030014680bdfa27ed224BEfc.png"
     }, 
+         {
+      "address": "0xc451C62eF7392068053D80c7a66883358a547E25",
+      "chainId": 2,
+      "name": "Saving",
+      "symbol": "SVIT2",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x54451dBE4B925aa5E312E232c6Cba2EAA0d98169.png"
+    },
         
                {
       "address": "0x4e004A1031f79001dC21194F0EC3bF1A3a208Fb9",
