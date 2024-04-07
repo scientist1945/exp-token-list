@@ -1,10 +1,10 @@
 {
     "name": "EggSwap Token List",
     "logoURI": "https://1.bp.blogspot.com/-0rtI-8IH1Mc/YFBLpESwKYI/AAAAAAAACvw/Bz6MXDuj4pICD9MIyV8yaUw1jxxSLNJUgCLcBGAsYHQ/s16000/eggswap-logo-copy.png",
-    "timestamp": "2023-09-10T00:00:00+00:00",
+    "timestamp": "2023-09-11T00:00:00+00:00",
     "version": {
-        "major": 1,
-        "minor": 9,
+        "major": 2,
+        "minor": 0,
         "patch": 0
     },
     "keywords": [
@@ -181,6 +181,15 @@
       "symbol": "SVIT2",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/eggswap/exp-token-list/main/icon/0x54451dBE4B925aa5E312E232c6Cba2EAA0d98169.png"
+    },
+
+             {
+      "address": "0x9F0a3798e1697F6412c9458dFfDACa09D9982c48",
+      "chainId": 2,
+      "name": "Guardian Expanse",
+      "symbol": "GDE",
+      "decimals": 18,
+      "logoURI": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHeYfb6KQV3PMgmS8Qr5hMzEQM5_0_3i0TuIV_gEibLfZZIUBUjr9ESXaOIQ8DrPpsc1rwVPBd9gdtq3AhEPBDzTQacKjyYBsKjC9hwbRAV9SF7z1KvVB-Fzipo15aO4YiPHxN0Ff-XUkI2jnxGIx_B1oZ95TxiWgOdtLQh20FeacMgZ8DgKweQGAM6I/s500/GE.jpg"
     },
         
                {
